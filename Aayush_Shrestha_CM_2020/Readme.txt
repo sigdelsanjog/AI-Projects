@@ -1,0 +1,1 @@
+The report details the history, categories of application of AI, Big Data and ML in the field of Biotechnology with the main highlight being the achievements made by AI in this field.
